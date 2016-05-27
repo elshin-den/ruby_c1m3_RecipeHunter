@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"times_displayed"
+			],
+			[
+				"ran",
+				"random_names"
+			],
+			[
+				"ass",
+				"assert_equal"
+			],
+			[
+				"high",
+				"highest_count_across_lines"
+			],
+			[
+				"prin",
+				"print_highest_word_frequency_across_lines"
+			],
+			[
+				"hi",
+				"highest_wf_words"
+			],
+			[
+				"ana",
+				"analyzer"
+			],
+			[
+				"highest",
+				"highest_count_across_lines"
+			],
+			[
+				"calcu",
+				"calculate_word_frequency"
+			],
+			[
+				"line",
+				"line_number"
+			],
+			[
+				"lin",
+				"line_number"
+			],
+			[
+				"highes",
+				"highest_wf_words"
+			],
+			[
+				"name",
+				"last_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"pl",
+				"players"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"att",
+				"attr_reader"
+			],
+			[
+				"ma",
+				"match2"
+			],
+			[
+				"mat",
+				"match2"
+			],
+			[
+				"new",
+				"new"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"st",
+				"stack"
+			],
+			[
+				"sin",
+				"single_quote"
+			],
+			[
+				"an",
+				"another_var"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elshin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/elshin/Documents/Study/ruby_mod_3/my_first_app/app/assets/stylesheets/courses.scss",
+		"/Users/elshin/Documents/Study/ruby_mod_3/httparty_test.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_3/my_first_app/app/views/greeter/hello.html.erb",
+		"/Users/elshin/Documents/Study/ruby_mod_3/my_first_app/app/helpers/greeter_helper.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_3/my_first_app/app/controllers/greeter_controller.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_3/my_first_app/config/routes.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_3/my_first_app/Gemfile",
+		"/Users/elshin/Documents/Study/ruby_mod_1/module_materials/fullstack-course1-module2/Assignments/Lesson01-Assignment01-Case-Statement/student-start/module2_lesson1_formative.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_1/lesson1.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_1/lesson2.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_1/module_materials/fullstack-course1-module2/Assignments/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_1/module_materials/fullstack-course1-module2/Lecture15-IntroToTesting/spec/calculator_spec.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_1/module_materials/fullstack-course1-module2/Lecture15-IntroToTesting/unittests.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_1/lesson3.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_1/graded-assignments/course01/module02/assignment-Calc-Max-Word-Freq/module2_assignment.rb",
+		"/Users/elshin/Documents/Study/ruby_mod_1/module2_assignment.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"double_quote"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "recipe.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
